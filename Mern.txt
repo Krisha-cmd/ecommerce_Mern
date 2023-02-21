@@ -1,0 +1,20 @@
+This is a MERN stack web development project. It includes: Mongodb, express.js, react and node.js
+in package.json file dev is locked at "nodemon backend/server.js" which implies that it runs the backend/server.js file using nodemon, which automatically restarts the server whenever changes are made to the code.
+nodemon is a development tool that automatically restarts the server when changes are made to the code.
+
+More about MERN
+MongoDB: A popular NoSQL database that stores data in JSON-like documents, making it an excellent choice for working with data-intensive applications like e-commerce websites.
+Express.js: A minimalist web framework for Node.js that provides a set of features for building web applications, including routing, middleware support, and template rendering.
+React: A popular front-end JavaScript library for building user interfaces. React provides a component-based architecture and a declarative programming model, making it easy to create reusable UI elements and manage complex state logic.
+Node.js: A JavaScript runtime built on Chrome's V8 engine that enables developers to run JavaScript on the server-side. Node.js provides a non-blocking I/O model that makes it easy to build scalable and high-performance applications.
+
+
+Alternatively could use Mean stack:  MongoDB, Express.js, Angular, and Node.js.
+LAMP Stack: Linux, Apache, MySQL, and PHP.
+Django Stack: Django (Python web framework), a relational database like MySQL or PostgreSQL, and a front-end technology like HTML, CSS, and JavaScript.
+Ruby on Rails Stack: Ruby on Rails (web framework), a database like PostgreSQL or MySQL, and a front-end technology like HTML, CSS, and JavaScript.
+
+Other depndencies in the project:
+dotenv: A module that loads environment variables from a .env file.
+express: A popular web framework for Node.js.
+mongoose: A popular library for working with MongoDB.
